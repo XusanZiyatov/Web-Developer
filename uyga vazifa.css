@@ -1,0 +1,30 @@
+.div {
+    margin: auto;
+    color: red;
+    width: 300px;
+    height: 50px;
+    box-shadow: 10px 10px 5px 5px yellow;
+    text-shadow: 20px 8px #558ABB;
+
+}
+h2 {
+    text-align: center;
+}
+.xusan {
+    margin: auto;
+    color: rgb(4, 255, 0);
+    width: 300px;
+    height: 50px;
+    box-shadow: 10px 10px 20px 5px rgb(0, 255, 229);
+    text-shadow:10px 5px rebeccapurple  ;
+}
+.Sardor {
+    margin: auto;
+    color: rgb(242, 7, 144);
+    width: 300px;
+    height: 50px;
+    box-shadow: 20px 15px 20px  rgb(55, 0, 255);
+    text-shadow:10px 10px 5px rgb(9, 209, 244)  ;
+}
+
+
